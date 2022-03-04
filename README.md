@@ -47,6 +47,6 @@ Apply Save setting and Exit.
 In order to run macOS successfully a number of EFI BIOS variables need to be modified. The included OpenCore bootloader contains an updated
 modGRUBShell.efi, which includes a setup_var command to help do just that.
 
-the graphics is ok to boot up (macOS BiG Sur 11.0.1)
+the graphics is ok to boot up (macOS Monterey 12.2.1)
 
 °Note: the UEFI Variables will lose after set BOIS to factory default!
