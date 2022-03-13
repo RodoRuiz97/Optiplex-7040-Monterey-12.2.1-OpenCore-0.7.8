@@ -41,7 +41,7 @@ Bios configuration
 
 Apply Save setting and Exit.
 
-*I Created my self with SSDTime in WINDOWS 10 PRO X64
+*I Created my self with SSDTime WINDOWS 10 x64
 
 °UEFI Variables
 In order to run macOS successfully a number of EFI BIOS variables need to be modified. The included OpenCore bootloader contains an updated
